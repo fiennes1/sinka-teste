@@ -162,5 +162,5 @@ app.put('/clientes/:id', async (req, res) => {
 
 // Iniciando o servidor
 app.listen(3000, () => {
-  console.log('Servidor rodando em http://localhost:3000');
+  console.log('Servidor rodando');
 });
